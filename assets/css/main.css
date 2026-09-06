@@ -4693,3 +4693,8 @@ input, select, textarea {
     height: 400px;
     object-fit: cover;
 }
+
+.project-description {
+    min-height: 140px;
+    text-align: left;
+}
